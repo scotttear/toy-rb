@@ -34,7 +34,7 @@
             left: `${state.posX * 100}px`,
             transform: `rotate(${state.rotation}deg)`,
           }"
-          src="./assets/robot-2-3d.png"
+          src="./assets/robot-a-3d.png"
           alt="Robot"
         />
       </div>
